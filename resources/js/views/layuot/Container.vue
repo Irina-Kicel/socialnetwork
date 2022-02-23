@@ -7,14 +7,14 @@
 
 <script>
 
-    import MyInput from "../../components/UI/MyInput";
-    import MyButton from "../../components/UI/MyButton";
+    //import MyInput from "../../components/UI/MyInput";
+    //import MyButton from "../../components/UI/MyButton";
     export default {
-        name: "Container",
-        components: {
-            MyInput,
-            MyButton
-        }
+        name: "Container"
+        // components: {
+        //     MyInput,
+        //     MyButton
+        // }
     }
 </script>
 
